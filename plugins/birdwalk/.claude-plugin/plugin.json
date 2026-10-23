@@ -1,0 +1,10 @@
+{
+  "name": "birdwalk",
+  "version": "0.1.0",
+  "description": "Work inside Birdwalk, the AI filmmaking platform: draft shots and images, write model-ready prompts, plan 3D Stage previs and navigate Project → Scene → Shot → Version through the Birdwalk connector.",
+  "author": { "name": "Birdwalk Pty Ltd", "email": "hello@birdwalk.ai", "url": "https://birdwalk.ai" },
+  "homepage": "https://birdwalk.ai",
+  "repository": "https://github.com/Atmos-Studios-Development/birdwalk-claude-plugin",
+  "license": "MIT",
+  "keywords": ["birdwalk", "video", "filmmaking", "seedance", "kling", "veo", "previs", "stage"]
+}

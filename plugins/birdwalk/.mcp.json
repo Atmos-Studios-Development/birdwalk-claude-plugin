@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "birdwalk": {
+      "type": "http",
+      "url": "https://studio.birdwalk.ai/mcp"
+    }
+  }
+}
