@@ -8,7 +8,7 @@ A skill, slash commands and the hosted Birdwalk connector, packaged as a Claude 
 2. Install **Birdwalk**.
 3. Open the plugin's **Connectors** tab and connect Birdwalk. Sign in to your Birdwalk account when asked.
 
-If you already use the Birdwalk connector in Claude, keep it. The plugin adds the skill and the commands on top.
+If you already added Birdwalk as a connector in Claude, turn that one off under **Customize → Connectors** once the plugin's connection is set up. Otherwise Claude sees every Birdwalk tool twice. If you remove the plugin later, turn your original connector back on.
 
 ## Install in Claude Code
 
