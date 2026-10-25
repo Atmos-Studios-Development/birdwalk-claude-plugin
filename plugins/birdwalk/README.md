@@ -15,4 +15,4 @@ This plugin lets Claude work in Birdwalk, the AI filmmaking platform, on your be
 - `commands/`: `/birdwalk:new-shot`, `/birdwalk:lookdev`, `/birdwalk:review-takes` and `/birdwalk:prompt-doctor`.
 - `.mcp.json`: the Birdwalk connector.
 
-If you've already added Birdwalk as a connector in Claude, the plugin's connector is used instead inside Claude Code. You don't need both.
+You need only one Birdwalk connection. If you've already added Birdwalk as a connector in Claude, turn that one off under Customize → Connectors once the plugin's connection is set up; otherwise Claude sees every Birdwalk tool twice.
