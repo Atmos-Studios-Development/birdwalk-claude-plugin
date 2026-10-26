@@ -3,14 +3,14 @@
   "owner": { "name": "Birdwalk Pty Ltd", "email": "hello@birdwalk.ai" },
   "metadata": {
     "description": "Birdwalk, the AI filmmaking platform: a skill, commands and the hosted connector for working in Birdwalk from Claude.",
-    "version": "1.0.2"
+    "version": "1.0.3"
   },
   "plugins": [
     {
       "name": "birdwalk",
       "source": "./plugins/birdwalk",
       "description": "Draft shots and images, write model-ready prompts and plan 3D Stage previs in Birdwalk.",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "category": "productivity",
       "keywords": ["birdwalk", "video", "filmmaking", "seedance", "kling", "veo", "previs"]
     }
