@@ -21,6 +21,11 @@ Or inside a Claude Code session, run `/plugin marketplace add Atmos-Studios-Deve
 
 The first time Claude uses Birdwalk, sign in to your Birdwalk account in the browser when asked.
 
+## Updating
+
+- **claude.ai or the desktop app:** when a new version is out, open **Customize → Plugins → Birdwalk** and press **Update**. If the button is greyed out, refresh the list first under **Manage marketplaces → Check for updates**.
+- **Claude Code:** run `claude plugin marketplace update birdwalk`, then `claude plugin update birdwalk@birdwalk`, and restart Claude Code.
+
 ## Try it
 
 - Ask Claude: "List my Birdwalk projects."
